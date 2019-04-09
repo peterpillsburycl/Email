@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Email Alert</title>
+    <style type="text/css">
+        .pb-2 {
+            padding-bottom: 20px;
+        }
+        a:focus {
+            -webkit-box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.15);
+            box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.15);
+            outline: none;
+        }
+        a[x-apple-data-detectors] {
+            text-decoration: none !important;
+            font-size: inherit !important;
+            font-family: inherit !important;
+            font-weight: inherit !important;
+            line-height: inherit !important;
+        }
+        @media only screen and (max-width: 480px) {
+            body,
+            table,
+            td,
+            p,
+            a,
+            li,
+            blockquote {
+                -webkit-text-size-adjust: none !important;
+            }
+            body {
+                width: 100% !important;
+                min-width: 100% !important;
+            }
+            table {
+                width: 100%;
+            }
+            h1 {
+                line-height: 125% !important;
+            }
+            h2 {
+                font-size: 20px !important;
+                line-height: 125% !important;
+            }
+            h3 {
+                font-size: 18px !important;
+                line-height: 125% !important;
+            }
+            h4 {
+                font-size: 16px !important;
+                line-height: 125% !important;
+            }
+            p {
+                font-size: 18px !important;
+                line-height: 125% !important;
+                mso-line-height-rule: exactly;
+            }
+            .pb-2 {
+                padding-bottom: 0;
+            }
+        }
+    </style>
+    <!-- CIRCLE AVATAR -->
+    <style type="text/css">
+        .hide {
+            display: block;
+        }
+    </style>
+    <!--[if (mso)|(IE)]>
+            <xml:namespace ns="urn:schemas-microsoft-com:vml" prefix="v" />
+            <style>v\: * { behavior:url(#default#VML); display:inline-block }</style>
+            <!<![endif]-->
+    <!--[if (gte mso 9)|(IE)]>
+            <style>
+            .hide {
+                display: none;
+            }
+            </style>
+            <![endif]-->
+
+    <!-- // CIRCLE AVATAR -->
+
+</head>
+
+<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0" style='height: 100%; width: 100%; color: #3a3a3a; font-size: 16px; font-family: "geomanist-light", "Helvetica", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; font-weight: 300; line-height: 25px; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; margin: 0; padding: 0;'
+    bgcolor="#f1f1f1">
+    <span style="display: none !important; font-size: 0px; line-height: 0px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden; visibility: hidden; mso-hide: all;">Product News</span>
+    <div class="pb-2"></div>
+    <table role="main" class="table" align="center" border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" style='border-collapse: collapse; height: 100%; width: 100%; color: #3a3a3a; font-size: 16px; font-family: "geomanist-light", "Helvetica", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; font-weight: 300; line-height: 25px; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; margin: 0; padding: 0;'
+        bgcolor="#f1f1f1">
+        <tr>
+            <td align="center" valign="top" style='height: 100%; width: 100%; color: #3a3a3a; font-size: 16px; font-family: "geomanist-light", "Helvetica", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; font-weight: 300; line-height: 25px; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; border-top-width: 0; margin: 0; padding: 0;'
+                bgcolor="rgba(235, 235, 235, 0.25)">
+            </td>
+        </tr>
+        <tr>
+            <td align="center" valign="top" style="mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+
+                <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; border-top-width: 0; border-bottom-width: 0;"
+                    bgcolor="#f1f1f1">
+                    <tr>
+                        <td align="center" valign="top" style="mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" style="border-collapse: separate !important; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; border-radius: 0;"
+                                bgcolor="#FFFFFF">
+                                <tr>
+                                    <td align="center" valign="top" style="mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; border: 1px solid #d2d2d2;">
+                                        <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+                                            <tr>
+                                                <td bgcolor="#f1f1f1" style="width: 100%; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; padding: 12px 18px 12px 18px; background-image: url('src/email-header.png'); background-repeat: no-repeat; background-size: cover;">
+                                                    <table style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+                                                        <tr>
+                                                            <td valign="top" width="100%" height="100%">
+
+                                                                <!--- HEADING -->
+
+                                                                <table align="left" border="0" cellpadding="0" cellspacing="0" style="color: #3a3a3a; max-width: 100%; min-width: 100%; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;"
+                                                                    width="100%">
+                                                                    <tr>
+                                                                        <td>
+                                                                            <!--- CIRCLE AVATAR -->
+
+                                                                            <!--[if (gte mso 9)|(IE)]>
+                                                                <v:oval xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" style="height:64px;width:64px;" fill="t" stroke="f">
+                                                                    <v:fill type="frame" color="red" src="src/shelly.jpg" style="height:64px;width:64px;"/></v:oval>
+                                                                <![endif]-->
+                                                                            <!--[if !IE]><!-->
+                                                                            <table class="hide" border="0" cellpadding="0" cellspacing="0" role="presentation" width="64" style="width: 64px; mso-hide: all;">
+                                                                                <tr>
+                                                                                    <td>
+                                                                                        <div style="-webkit-border-radius: 50%; -moz-border-radius: 50%; border-radius: 50%; overflow:hidden!important; mso-hide: all;">
+                                                                                            <img src="https://static1.squarespace.com/static/55550428e4b0d770e3f981ab/t/5a7ba0da24a6941406361363/1512531964094/lr-nicholas-philadelphia-happy-hour-headshot-photography-32220.JPG?format=500w" border="0" width="64" height="64" alt="" style="display: block;" />
+                                                                                        </div>
+                                                                                    </td>
+                                                                                </tr>
+                                                                            </table>
+                                                                            <!--<![endif]-->
+
+                                                                            <!--- // CIRCLE AVATAR -->
+
+                                                                        </td>
+                                                                        <td style="width:18px;"></td>
+                                                                        <td valign="top" style="font-family: geomanist-light, Helvetica, Arial; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; word-break: break-word;"
+                                                                            align="left">
+
+                                                                            <h2 style="display: block; color: #3a3a3a; font-size: 20px; font-style: normal; font-weight: 400; line-height: 125%; letter-spacing: normal; margin: 0; padding: 0;"
+                                                                                align="left">
+                                                                                <span id="agent-fullname">Shelly Oberony</span>
+                                                                            </h2>
+                                                                            <div style="font-size:12px; line-height: 125%;">
+                                                                                <div id="agent-title">Premier Real Estate Agent</div>
+                                                                                <div id="agent-phone">949.555.1212</div>
+                                                                                <div id="agent-email">
+                                                                                    <a href="mailto:shelly.obrony@mainbeachrealty.com" target="_blank" style="font-family: geomanist-light, Helvetica Neue, Helvetica, Arial, sans-serif; color: #007faa; letter-spacing: 0; text-decoration: underline; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-weight: normal;">
+                                                                                        <font color="007faa">shelly.obrony@mainbeachrealty.com</font>
+                                                                                    </a>
+                                                                                </div>
+
+                                                                            </div>
+
+                                                                        </td>
+                                                                    </tr>
+                                                                </table>
+                                                                <!-- // HEADING -->
+
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td valign="top" style="mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+                                                    <table border="0" cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td valign="top" style="mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+                                                                    <table align="left" border="0" cellpadding="0" cellspacing="0" style="color: #3a3a3a; max-width: 100%; min-width: 100%; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;"
+                                                                        width="100%">
+                                                                        <tr>
+                                                                            <td valign="top" style="font-family: geomanist-light, Helvetica Neue, Helvetica, Arial, sans-serif; padding-top: 15px;padding-right: 25px; padding-left: 25px; color: #3a3a3a; mso-line-height-rule: exactly; line-height: 30px; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; word-break: break-word; font-size: 16px;"
+                                                                                align="left">
+
+                                                                                <!-- EMAIL CONTENT -->
+
+                                                                                <p>Hi Amy,</p>
+                                                                                <p>Here is your property search update.</p>
+                                                                                <p>Kind regards,
+                                                                                    <br/>Shelly</p>
+
+                                                                                <!-- // EMAIL CONTENT -->
+
+                                                                            </td>
+                                                                        </tr>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                    <table border="0" cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td valign="top" style="mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; padding: 0px;">
+                                                                    <table align="left" width="100%" border="0" cellpadding="0" cellspacing="0" style="min-width: 100%; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td valign="top" width="100%" height="100%" style="font-size: 0; mso-line-height-rule: exactly; line-height: 100%; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; padding: 0 0px;"
+                                                                                    align="center">
+
+                                                                                    <!-- PHOTO -->
+
+                                                                                    <img id="listing-photo" align="center" alt="" src="https://static01.nyt.com/images/2018/07/22/realestate/22IHH-TELAVIV-slide-4OZ8/22IHH-TELAVIV-slide-4OZ8-articleLarge.jpg?quality=75&auto=webp&disable=upscale" width="100%" height="100%" style="display: block !important; height: auto; outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; vertical-align: bottom; border: 0;">
+
+                                                                                    <!-- // PHOTO -->
+
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                    <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%; min-width: 100%; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;"
+                                                        width="100%">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td valign="top" style="font-family: geomanist-light, Helvetica, Arial; padding-right: 25px; padding-left: 25px; padding-top:25px; color: #3a3a3a; mso-line-height-rule: exactly; line-height: 125%; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; word-break: break-word; font-size: 16px;"
+                                                                    align="left">
+
+                                                                    <!-- Listing Details-->
+                                                                    <div id="listing-price" style="font-size:28px; line-height: 125%">$1,397,260</div>
+                                                                    <div>
+                                                                        <span id="listing-beds">3 bed</span>,
+                                                                        <span id="listing-baths">2 bath</span>
+                                                                        <span style="color:#c6c6c6;">|</span>
+                                                                        <span id="listing-sqft">sqft. 1,656</span>
+                                                                    </div>
+                                                                    <div id="listing-address-full" style="font-size:12px;">946 Quivera St. Laguna Beach, CA 92651</div>
+
+                                                                    <!-- // Listing Details-->
+
+                                                                </td>
+                                                                <td style="mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; padding: 40px 25px;"
+                                                                    valign="top" align="center">
+
+                                                                    <!-- BUTTON -->
+
+                                                                    <table border="0" cellpadding="0" cellspacing="0" style="color: #FFFFFF;border-collapse: separate !important; border-radius: 0px;mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;"
+                                                                        bgcolor="#007FAA">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td align="center" valign="middle" style="color: #FFFFFF !important;font-size: 16px; font-family: geomanist-book, Helvetica, Arial; font-weight: 400; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; padding: 14px 28px;">
+                                                                                    <a title="See Details" href="#" target="_self" style="letter-spacing: normal; line-height: 100%; text-align: center; text-decoration: none; color: #FFFFFF !important; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; display: block;">
+                                                                                        <font color="#ffffff">
+
+                                                                                            <!-- BUTTON TEXT -->
+
+                                                                                            See Details
+
+                                                                                            <!-- // BUTTON TEXT -->
+
+                                                                                        </font>
+                                                                                    </a>
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+
+                                                                    <!-- // BUTTON -->
+
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+
+                                                    <table border="0" cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td valign="top" style="padding: 18px 25px; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; background-color: #6B6B6B;">
+                                                                    <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%; min-width: 100%; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;"
+                                                                        width="100%">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td valign="top" style="mso-line-height-rule: exactly; line-height: 125%; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; word-break: break-word; font-size: 16px;"
+                                                                                    align="left">
+
+                                                                                    <!-- SUPPORT FOOTER -->
+                                                                                    <div style="color: #ffffff; font-size:12px; line-height: 125%; font-family: geomanist-book, Helvetica, Arial; font-weight: 400;"
+                                                                                        align="center">
+                                                                                        Delivered by CRMLS | 180 Via Verde, Suite 200
+                                                                                        <br/>San Dimas, CA 91773 | 909.555.1212
+                                                                                    </div>
+                                                                                    <div style="color:#ffffff; font-size:12px; font-family: geomanist-book, Helvetica, Arial; font-weight: 400;" align="center">
+                                                                                        <a title="Unsubscribe" href="#" target="_self" style="letter-spacing: normal; line-height: 100%; text-align: center; text-decoration: none; color: #FFFFFF !important; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+                                                                                            <font color="#ffffff">
+
+                                                                                                Unsubscribe
+
+                                                                                            </font>
+                                                                                        </a> |
+                                                                                        <a title="Privacy Policy" href="#" target="_self" style="letter-spacing: normal; line-height: 100%; text-align: center; text-decoration: none; color: #FFFFFF !important; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+                                                                                            <font color="#ffffff">
+
+                                                                                                Privacy Policy
+
+                                                                                            </font>
+                                                                                        </a>
+
+                                                                                    </div>
+
+                                                                                    <!-- // SUPPORT FOOTER -->
+
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" valign="top" style="mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+                <table border="0" cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+                    <tbody>
+                        <tr>
+                            <td valign="top" style="mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+                                <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%; min-width: 100%; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;"
+                                    width="100%">
+                                    <tbody>
+                                        <tr>
+                                            <td valign="top" style="font-family: geomanist-light, Helvetica Neue, Helvetica, Arial, sans-serif; mso-line-height-rule: exactly; line-height: 18px; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; word-break: break-word; padding: 20px 0 0;">
+
+                                                <!-- EMAIL FOOTER -->
+
+                                                <div style="font-size: 12px; color: #3a3a3a;" align="center">
+
+                                                            <img id="listing-photo" align="center" alt="" src="http://www.homeguru.com.au/images/corelogic-powered-by.jpg" width="30%" height="30%" style="display: block !important; height: auto; outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; vertical-align: bottom; border: 0;">
+                                                            <br/>
+                                                            <div>Copyright &copy; 2018 CoreLogic. All Rights Reserved.</div>
+                                                    </div>
+                                                </div>
+
+                                                <!-- // EMAIL FOOTER -->
+
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
